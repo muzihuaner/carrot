@@ -1,26 +1,15 @@
 
 <p align="center">
-<img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://github.com/xx025/carrot/assets/71559822/1c0ea333-08d1-4acf-9ae4-e7b9980c2727" alt="frct"/>
-</br>
 <h1>Free ChatGPT Site List</h1> 
 这儿为你准备了众多免费好用的ChatGPT镜像站点
 </br>
-发布网站： <a href="https://cc.ai55.cc/">https://cc.ai55.cc/</a> 😃敬请收藏和分享
+发布网站： <a href="https://ai.quickso.cn">ai.quickso.cn</a> 😃敬请收藏和分享
 </br>
-分享站点、站点失效、标注错误，请<a href="https://github.com/xx025/carrot/issues">🌺点此🌺</a>
 </p>
 
 ---
 
-[//]: # (<a href="" target="_blank" style="color: black">)
 
-[//]: # (<img src="" alt="Ad" style="height: 80px !important;width: auto !important;" ></a> [广告])
-
-[//]: # (<a href="" target="_blank" style="color: black">)
-
-[//]: # (👆 [广告])
-
-[//]: # (</a>)
 
 
 
@@ -1850,7 +1839,7 @@
 ---
 
 
-[GitHub](https://github.com/xx025/carrot)| [OSS](https://github.com/xx025/carrot/tree/dev) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) 
+
 
 如果您正在同步或转载本仓库内容，请遵守以下协议：1. 可以移除广告位 2. 其他部分请保持原文，不作修改
 
